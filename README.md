@@ -1,2 +1,0 @@
-# REDI
-Created with CodeSandbox
